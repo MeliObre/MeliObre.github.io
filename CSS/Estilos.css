@@ -1,0 +1,146 @@
+body{
+    background-color: black;
+
+}
+@media only screen and (max-width:600px){
+    body{
+        background-color: black
+    };
+}
+p{
+    color: black;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    align-content: center;
+}
+
+ h3{
+    color: white;
+    border: 1px outset blue ;
+    margin: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+ section{
+    width: 200px;
+    border: 2px solid grey;
+    padding: 5px;
+    margin: 5px;
+ }
+#demo{
+    color: white;
+    font-size: 23px;
+    font-style: oblique;
+}
+*{
+    box-sizing: border-box;
+}
+.header{
+    background-color: black;
+    color:#fff;
+    background: linear-gradient(45deg, red, rgb(255, 0, 217), rgb(35, 49, 244),rgb(0, 0, 188));
+    position: relative;
+    border: 2px solid blue;
+    padding: 10px;
+    margin-top: 1cm;
+    text-align: center;
+    margin-top: 10px;
+}
+.menu{
+    width: 27%;
+    height: 450px;
+    float: left;
+    padding: 25px;
+    border: 3px solid blue;
+}
+.main{
+    width: 45%;
+    float: left;
+    padding: 15px;
+    border: 20px solid blue;  
+    background-color: blue;
+    height: 450px;
+}
+.contac{
+    width: 28%;
+    height: 450px;
+    float: left;
+    padding: 25px;
+    border: 3px solid blue;
+}
+#Nombre1{
+    color: white;
+    text-align: left;
+    font-size: 1cm;
+    text-align: center;
+}
+ .Imagen1{
+    border: 2px groove white;
+    padding: 2px;
+    margin: 2px;
+    width: 150px;
+    height: 150px;
+    display:block;
+    align-content: center;
+ }
+
+ .imagformacion{
+    height: 300px;
+    width: 350px;
+    display: block;
+ }
+
+ 
+ .imagidioma{
+    height: 300px;
+    width: 350px;
+    display: block;
+ }
+ .imagcompetencia{
+    height: 300px;
+    width: 350px;
+    display: block;
+ }
+ .imagexperiencia{
+    height: 300px;
+    width: 330px;
+    display: block;
+ }
+
+ #boton1{
+    background-color: blueviolet;
+    border-color: black;
+    width: 250px;
+    height: 70px;
+ }
+ #boton2{
+    background-color: palevioletred;
+    border-color: black;
+    width: 250px;
+    height: 70px;
+ }
+ #boton3{
+    background-color: rgb(0, 255, 21);
+    border-color: black;
+    width: 250px;
+    height: 70px;
+ }
+ #boton4{
+    background-color: violet;
+    border-color: black;
+    width: 250px;
+    height: 70px;
+ }
+ #boton5{
+    background-color: red;
+    border-color: black;
+    width: 250px;
+    height: 70px;
+ }
